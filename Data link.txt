@@ -1,0 +1,3 @@
+- Download link : https://www.kaggle.com/datasets/andrewmvd/face-mask-detection
+- cnn model : https://drive.google.com/drive/folders/1YvMhmUbk2wccJpcdlyoxuCd46sdFO3o2?usp=share_link
+- YOLO 7 model &  inferenced videos can be found here : https://drive.google.com/drive/folders/1aAQzTqGfsxDOcLOBXFJqjM3gE9ZUClk4?usp=share_link
